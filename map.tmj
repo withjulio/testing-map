@@ -706,7 +706,7 @@
         {
          "columns":39,
          "firstgid":2956,
-         "image":"..\/..\/..\/Downloads\/Kokoro Ready 32x32\/KR Alien Worlds Tileset\/Alien_Landscape_D.png",
+         "image":"tilesets\/Alien_Landscape_D.png",
          "imageheight":672,
          "imagewidth":1248,
          "margin":0,
@@ -719,7 +719,7 @@
         {
          "columns":31,
          "firstgid":3775,
-         "image":"..\/..\/..\/Downloads\/Kokoro Ready 32x32\/KR Urban Modern Tileset\/Modern_Outside_A2.png",
+         "image":"tilesets\/Modern_Outside_A2.png",
          "imageheight":480,
          "imagewidth":992,
          "margin":0,
